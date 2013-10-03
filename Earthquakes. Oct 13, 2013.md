@@ -18,6 +18,3 @@ Poisson | Gamma renewal processes | Weibull | Lognormal | Normal Double Exponent
 <br>
 &nbsp;&nbsp;-Natural disasters are treated like 'casino games' with probabilities <br>
 &nbsp;&nbsp;&nbsp;i.e. Urn Model<br>
-
-<b>Rabbit-Hat Theorem</b>
-<br>
