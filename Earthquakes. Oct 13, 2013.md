@@ -1,7 +1,7 @@
 October 13, 2013. Earthquakes
 =====
 <b>Stochastic Models</b><br>
-	Poisson | Gamma renewal processes | Weibull | Lognormal | Normal Double Exponential | ETAS | Brownian Passage Time<br>
+Poisson | Gamma renewal processes | Weibull | Lognormal | Normal Double Exponential | ETAS | Brownian Passage Time<br>
 
 <b>Stage 1</b>
 <br>
@@ -16,4 +16,5 @@ October 13, 2013. Earthquakes
 
 <b>Natural Disaster Models</b>
 <br>
-&nbsp;&nbsp;-Natural disasters are treated like 'casino games' with probabilities
+&nbsp;&nbsp;-Natural disasters are treated like 'casino games' with probabilities <br>
+&nbsp;&nbsp;&nbsp;i.e. Urn Model
