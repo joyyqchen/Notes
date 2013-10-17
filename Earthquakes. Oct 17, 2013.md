@@ -1,6 +1,13 @@
 October 17, 2013. Earthquakes
 =====
-<b>Cal-Adapt</b><br>
-LandCarbon Atlas<br>
-Berkeley Ecoinformatics Engine <br>
+
+<b>Geospacial Innovation Foundation (GIF) Information Sources</b>
+<ul>
+<li>Cal-Adapt<br>
+<li>LandCarbon Atlas<br>
+<li>Berkeley Ecoinformatics Engine <br>
+
+<br><br>
+<b>SAMSI</b>
+<br>
 
