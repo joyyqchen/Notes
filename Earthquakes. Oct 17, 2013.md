@@ -50,6 +50,7 @@ October 17, 2013. Earthquakes
 &nbsp;&nbsp;&nbsp;&nbsp;-Magnitude-dependent Automatic Alarm (MDA) <br>
 &nbsp;&nbsp;&nbsp;&nbsp; After every event with M>m, start an alarm of duration tu^M<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 1 free parameter (u)<br>
-&nbsp;&nbsp;&nbsp;For both, adjust fraction of time covered by alarms through t.
-&nbsp;&nbsp;&nbsp;&nbsp;-Optimal ETAS predictor: level set of conditional intensity.
+&nbsp;&nbsp;&nbsp;For both, adjust fraction of time covered by alarms through t.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Optimal ETAS predictor: level set of conditional intensity.<br>
 &nbsp;&nbsp;&nbsp;&nbsp; ETAS has 4 free parameters: K, alpha, c, p.
+<br><br>
