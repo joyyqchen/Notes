@@ -22,8 +22,8 @@ October 17, 2013. Earthquakes
 &nbsp;&nbsp;&nbsp;&nbsp;We will look at (2) abd (3) for several common models
 <br><br>
 <b>Seismicity Models</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;-Poisson
-&nbsp;&nbsp;&nbsp;&nbsp;  Doesn't fit: too little clustering<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Poisson<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Doesn't fit: too little clustering<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-Poisson for "declusted" catalogs <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Will pass test if you remove enough events, but standard algorithms don't<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-Gamma renewal<br>
